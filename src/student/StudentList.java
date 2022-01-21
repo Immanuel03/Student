@@ -11,7 +11,7 @@ package student;
 public class StudentList {
     public static void main(String[]args){
         
-        StudentId[] studentList = new StudentId[3];
+        StudentId[] studentList = new StudentId[4];
         
         studentList[0]= new StudentId("s1","Immanuel Georges");
         studentList[1]= new StudentId("s2","John Doe");
